@@ -1,3 +1,8 @@
+"""
+Project : Weather checker with city(any city in the world) name 
+Author : Ajeet
+Date : 16/11/2017
+"""
 import requests
 import json
 from Tkinter import *
